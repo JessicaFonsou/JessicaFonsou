@@ -1,4 +1,4 @@
-# 👩‍💼 Jessica Souza
+# 👩‍💼 Jessica Fonseca
 
 Tech Recruiter com base técnica em desenvolvimento Full Stack.
 
