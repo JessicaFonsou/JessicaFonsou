@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👩‍💼 Jessica Souza
 
-<!--
-**JessicaFonsou/JessicaFonsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Recruiter com base técnica em desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+Atuo conectando talentos à tecnologia, enquanto aprofundo meus conhecimentos em desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologias que estudo e aplico
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🅰 Angular
+- 🗄 MySQL
+- 🌐 HTML | CSS | JavaScript
+- 🔧 Git & GitHub
+
+---
+
+## 🚀 Projetos de Estudo
+
+Aqui compartilho projetos desenvolvidos para aprofundar meus conhecimentos técnicos:
+
+### 🧾 Sistema de Orçamentos
+API REST com Spring Boot integrada a frontend Angular.
+
+### 📚 Sistema de Reserva de Livros
+CRUD completo desenvolvido com Angular CLI 14.
+
+---
+
+## 🎯 Meu Diferencial
+
+Como recrutadora técnica, busco:
+- Entender profundamente as tecnologias que avalio
+- Compreender arquitetura e boas práticas
+- Avaliar código com mais critério técnico
+- Conectar empresas a profissionais realmente qualificados
+
+---
+
+## 📫 Contato
+
+📍 Brasil  
+🔗 LinkedIn: https://www.linkedin.com/in/jessica-fonseca-a99a49170/
