@@ -32,9 +32,8 @@ CRUD completo desenvolvido com Angular CLI 14.
 ## 🎯 Meu Diferencial
 
 Como recrutadora técnica, busco:
-- Entender profundamente as tecnologias que avalio
-- Compreender arquitetura e boas práticas
-- Avaliar código com mais critério técnico
+- Entender as tecnologias que avalio
+- Compreender as boas práticas
 - Conectar empresas a profissionais realmente qualificados
 
 ---
